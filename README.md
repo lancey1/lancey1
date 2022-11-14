@@ -3,8 +3,10 @@
 </div>  
   
 
-### <div align="center">Hello, I am an aspiring front-end developer based in Toronto 👨‍💻</div>  
+### <div align="center">Hello, I am an aspiring front-end developer based in Toronto 👨‍💻 🇨🇦</div>
+### <div align="center">Learn More About My Experiences <a href="https://resume.creddle.io/resume/cfbzubtuc3r?fbclid=IwAR3mn-8000nlPetFSaIK0rWo4NC0IF4aKZYjlga6cOpTVRNADLwqQlU_AqY" target="_blank">Here.</a></div>
   
+<br/>  
 
 - 🌱 I’m currently learning Typescript  
   
