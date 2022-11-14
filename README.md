@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello, I am an aspiring front-end developer 👨‍💻</div>  
+### <div align="center">Hello, I am an aspiring front-end developer based in Toronto 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Typescript  
